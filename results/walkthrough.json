@@ -1,0 +1,497 @@
+{
+    "yomomma": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/yomomma.z8",
+        "max_steps": 100,
+        "steps": 98,
+        "num_observations": 99,
+        "num_actions": 98,
+        "num_rewards": 98,
+        "total_reward": 34,
+        "max_score": 35,
+        "info": {
+            "moves": 88,
+            "score": 34
+        }
+    },
+    "reverb": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/reverb.z5",
+        "max_steps": 100,
+        "steps": 74,
+        "num_observations": 75,
+        "num_actions": 74,
+        "num_rewards": 74,
+        "total_reward": 50,
+        "max_score": 50,
+        "info": {
+            "moves": 74,
+            "score": 50
+        }
+    },
+    "advent": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/advent.z5",
+        "max_steps": 100,
+        "steps": 277,
+        "num_observations": 278,
+        "num_actions": 277,
+        "num_rewards": 277,
+        "total_reward": 314,
+        "max_score": 350,
+        "info": {
+            "moves": 277,
+            "score": 350
+        }
+    },
+    "acorncourt": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/acorncourt.z5",
+        "max_steps": 100,
+        "steps": 17,
+        "num_observations": 18,
+        "num_actions": 17,
+        "num_rewards": 17,
+        "total_reward": 30,
+        "max_score": 30,
+        "info": {
+            "moves": 17,
+            "score": 30
+        }
+    },
+    "dragon": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/dragon.z5",
+        "max_steps": 100,
+        "steps": 101,
+        "num_observations": 102,
+        "num_actions": 101,
+        "num_rewards": 101,
+        "total_reward": 25,
+        "max_score": 25,
+        "info": {
+            "moves": 101,
+            "score": 25
+        }
+    },
+    "temple": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/temple.z5",
+        "max_steps": 100,
+        "steps": 181,
+        "num_observations": 182,
+        "num_actions": 181,
+        "num_rewards": 181,
+        "total_reward": 35,
+        "max_score": 35,
+        "info": {
+            "moves": 182,
+            "score": 35
+        }
+    },
+    "afflicted": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/afflicted.z8",
+        "max_steps": 100,
+        "steps": 98,
+        "num_observations": 99,
+        "num_actions": 98,
+        "num_rewards": 98,
+        "total_reward": 75,
+        "max_score": 75,
+        "info": {
+            "moves": 97,
+            "score": 75
+        }
+    },
+    "905": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/905.z5",
+        "max_steps": 100,
+        "steps": 22,
+        "num_observations": 23,
+        "num_actions": 22,
+        "num_rewards": 22,
+        "total_reward": 1,
+        "max_score": 1,
+        "info": {
+            "moves": 35,
+            "score": 1
+        }
+    },
+    "ztuu": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/ztuu.z5",
+        "max_steps": 100,
+        "steps": 84,
+        "num_observations": 85,
+        "num_actions": 84,
+        "num_rewards": 84,
+        "total_reward": 100,
+        "max_score": 100,
+        "info": {
+            "moves": 84,
+            "score": 100
+        }
+    },
+    "gold": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/gold.z5",
+        "max_steps": 100,
+        "steps": 345,
+        "num_observations": 346,
+        "num_actions": 345,
+        "num_rewards": 345,
+        "total_reward": 100,
+        "max_score": 100,
+        "info": {
+            "moves": 780,
+            "score": 100
+        }
+    },
+    "awaken": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/awaken.z5",
+        "max_steps": 100,
+        "steps": 57,
+        "num_observations": 58,
+        "num_actions": 57,
+        "num_rewards": 57,
+        "total_reward": 50,
+        "max_score": 50,
+        "info": {
+            "moves": 57,
+            "score": 50
+        }
+    },
+    "jewel": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/jewel.z5",
+        "max_steps": 100,
+        "steps": 223,
+        "num_observations": 224,
+        "num_actions": 223,
+        "num_rewards": 223,
+        "total_reward": 90,
+        "max_score": 90,
+        "info": {
+            "moves": 223,
+            "score": 90
+        }
+    },
+    "ludicorp": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/ludicorp.z5",
+        "max_steps": 100,
+        "steps": 364,
+        "num_observations": 365,
+        "num_actions": 364,
+        "num_rewards": 364,
+        "total_reward": 149,
+        "max_score": 150,
+        "info": {
+            "moves": 364,
+            "score": 150
+        }
+    },
+    "enchanter": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/enchanter.z3",
+        "max_steps": 100,
+        "steps": 265,
+        "num_observations": 266,
+        "num_actions": 265,
+        "num_rewards": 265,
+        "total_reward": 400,
+        "max_score": 400,
+        "info": {
+            "moves": 397,
+            "score": 400
+        }
+    },
+    "detective": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/detective.z5",
+        "max_steps": 100,
+        "steps": 51,
+        "num_observations": 52,
+        "num_actions": 51,
+        "num_rewards": 51,
+        "total_reward": 350,
+        "max_score": 360,
+        "info": {
+            "moves": 51,
+            "score": 360
+        }
+    },
+    "anchor": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/anchor.z8",
+        "max_steps": 100,
+        "steps": 531,
+        "num_observations": 532,
+        "num_actions": 531,
+        "num_rewards": 531,
+        "total_reward": 99,
+        "max_score": 100,
+        "info": {
+            "moves": 520,
+            "score": 99
+        }
+    },
+    "adventureland": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/adventureland.z5",
+        "max_steps": 100,
+        "steps": 170,
+        "num_observations": 171,
+        "num_actions": 170,
+        "num_rewards": 170,
+        "total_reward": 100,
+        "max_score": 100,
+        "info": {
+            "moves": 171,
+            "score": 100
+        }
+    },
+    "balances": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/balances.z5",
+        "max_steps": 100,
+        "steps": 122,
+        "num_observations": 123,
+        "num_actions": 122,
+        "num_rewards": 122,
+        "total_reward": 50,
+        "max_score": 51,
+        "info": {
+            "moves": 122,
+            "score": 50
+        }
+    },
+    "sorcerer": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/sorcerer.z3",
+        "max_steps": 100,
+        "steps": 254,
+        "num_observations": 255,
+        "num_actions": 254,
+        "num_rewards": 254,
+        "total_reward": 400,
+        "max_score": 400,
+        "info": {
+            "moves": 408,
+            "score": 400
+        }
+    },
+    "omniquest": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/omniquest.z5",
+        "max_steps": 100,
+        "steps": 78,
+        "num_observations": 79,
+        "num_actions": 78,
+        "num_rewards": 78,
+        "total_reward": 50,
+        "max_score": 50,
+        "info": {
+            "moves": 78,
+            "score": 50
+        }
+    },
+    "zork3": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/zork3.z5",
+        "max_steps": 100,
+        "steps": 273,
+        "num_observations": 274,
+        "num_actions": 273,
+        "num_rewards": 273,
+        "total_reward": 7,
+        "max_score": 7,
+        "info": {
+            "moves": 381,
+            "score": 7
+        }
+    },
+    "spirit": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/spirit.z5",
+        "max_steps": 100,
+        "steps": 1264,
+        "num_observations": 1265,
+        "num_actions": 1264,
+        "num_rewards": 1264,
+        "total_reward": 250,
+        "max_score": 250,
+        "info": {
+            "moves": 1260,
+            "score": 250
+        }
+    },
+    "karn": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/karn.z5",
+        "max_steps": 100,
+        "steps": 362,
+        "num_observations": 363,
+        "num_actions": 362,
+        "num_rewards": 362,
+        "total_reward": 170,
+        "max_score": 170,
+        "info": {
+            "moves": 362,
+            "score": 170
+        }
+    },
+    "zork1": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/zork1.z5",
+        "max_steps": 100,
+        "steps": 396,
+        "num_observations": 397,
+        "num_actions": 396,
+        "num_rewards": 396,
+        "total_reward": 350,
+        "max_score": 350,
+        "info": {
+            "moves": 395,
+            "score": 350
+        }
+    },
+    "library": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/library.z5",
+        "max_steps": 100,
+        "steps": 52,
+        "num_observations": 53,
+        "num_actions": 52,
+        "num_rewards": 52,
+        "total_reward": 30,
+        "max_score": 30,
+        "info": {
+            "moves": 52,
+            "score": 30
+        }
+    },
+    "deephome": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/deephome.z5",
+        "max_steps": 100,
+        "steps": 327,
+        "num_observations": 328,
+        "num_actions": 327,
+        "num_rewards": 327,
+        "total_reward": 299,
+        "max_score": 300,
+        "info": {
+            "moves": 327,
+            "score": 300
+        }
+    },
+    "zenon": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/zenon.z5",
+        "max_steps": 100,
+        "steps": 83,
+        "num_observations": 84,
+        "num_actions": 83,
+        "num_rewards": 83,
+        "total_reward": 20,
+        "max_score": 20,
+        "info": {
+            "moves": 82,
+            "score": 20
+        }
+    },
+    "tryst205": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/tryst205.z5",
+        "max_steps": 100,
+        "steps": 518,
+        "num_observations": 519,
+        "num_actions": 518,
+        "num_rewards": 518,
+        "total_reward": 350,
+        "max_score": 350,
+        "info": {
+            "moves": 516,
+            "score": 350
+        }
+    },
+    "spellbrkr": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/spellbrkr.z3",
+        "max_steps": 100,
+        "steps": 412,
+        "num_observations": 413,
+        "num_actions": 412,
+        "num_rewards": 412,
+        "total_reward": 600,
+        "max_score": 600,
+        "info": {
+            "moves": 531,
+            "score": 600
+        }
+    },
+    "inhumane": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/inhumane.z5",
+        "max_steps": 100,
+        "steps": 122,
+        "num_observations": 123,
+        "num_actions": 122,
+        "num_rewards": 122,
+        "total_reward": 90,
+        "max_score": 90,
+        "info": {
+            "moves": 114,
+            "score": 90
+        }
+    },
+    "pentari": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/pentari.z5",
+        "max_steps": 100,
+        "steps": 49,
+        "num_observations": 50,
+        "num_actions": 49,
+        "num_rewards": 49,
+        "total_reward": 70,
+        "max_score": 70,
+        "info": {
+            "moves": 49,
+            "score": 70
+        }
+    },
+    "snacktime": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/snacktime.z8",
+        "max_steps": 100,
+        "steps": 34,
+        "num_observations": 35,
+        "num_actions": 34,
+        "num_rewards": 34,
+        "total_reward": 50,
+        "max_score": 50,
+        "info": {
+            "moves": 34,
+            "score": 50
+        }
+    },
+    "moonlit": {
+        "agent": "WalkThroughAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/moonlit.z5",
+        "max_steps": 100,
+        "steps": 59,
+        "num_observations": 60,
+        "num_actions": 59,
+        "num_rewards": 59,
+        "total_reward": 1,
+        "max_score": 1,
+        "info": {
+            "moves": 59,
+            "score": 1
+        }
+    }
+}

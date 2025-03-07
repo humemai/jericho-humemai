@@ -1,0 +1,137 @@
+{
+    "yomomma": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/yomomma.z8",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 0,
+        "max_score": 35,
+        "info": {
+            "moves": 100,
+            "score": 0
+        }
+    },
+    "reverb": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/reverb.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 2,
+        "max_score": 50,
+        "info": {
+            "moves": 101,
+            "score": 2
+        }
+    },
+    "advent": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/advent.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 0,
+        "max_score": 350,
+        "info": {
+            "moves": 100,
+            "score": 36
+        }
+    },
+    "acorncourt": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/acorncourt.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 0,
+        "max_score": 30,
+        "info": {
+            "moves": 101,
+            "score": 0
+        }
+    },
+    "dragon": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/dragon.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": -1,
+        "max_score": 25,
+        "info": {
+            "moves": 101,
+            "score": -1
+        }
+    },
+    "temple": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/temple.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 8,
+        "max_score": 35,
+        "info": {
+            "moves": 101,
+            "score": 8
+        }
+    },
+    "afflicted": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/afflicted.z8",
+        "max_steps": 100,
+        "steps": 62,
+        "num_observations": 63,
+        "num_actions": 62,
+        "num_rewards": 62,
+        "total_reward": 0,
+        "max_score": 75,
+        "info": {
+            "moves": 62,
+            "score": 0
+        }
+    },
+    "905": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/905.z5",
+        "max_steps": 100,
+        "steps": 100,
+        "num_observations": 101,
+        "num_actions": 100,
+        "num_rewards": 100,
+        "total_reward": 0,
+        "max_score": 1,
+        "info": {
+            "moves": 100,
+            "score": 0
+        }
+    },
+    "ztuu": {
+        "agent": "LLMAgent",
+        "game_path": "./z-machine-games-master/jericho-game-suite/ztuu.z5",
+        "max_steps": 100,
+        "steps": 8,
+        "num_observations": 9,
+        "num_actions": 8,
+        "num_rewards": 8,
+        "total_reward": 0,
+        "max_score": 100,
+        "info": {
+            "moves": 8,
+            "score": 0
+        }
+    }
+}
